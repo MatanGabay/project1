@@ -26,4 +26,16 @@ video {
   background-color: #eaeaea ;
 }
 
+#textbox {
+  display: flex;
+  justify-content: space-between;
+}
 
+.insta{
+  color:#73626d;
+}
+
+.whatsapp{
+color: #43e06d;
+
+}
