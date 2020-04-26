@@ -1,6 +1,10 @@
 body {
     /* Everything is Raleway */
     font-family: 'Raleway', sans-serif;
+    text-align: center;
+    background: #fcfcfa;
+    color: #818078;
+    font-family: Futura, sans-serif;
   }
 
   .navbar-brand {
