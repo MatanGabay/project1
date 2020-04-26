@@ -13,11 +13,16 @@ font-family: 'oswald';
 }
 
 h3 {
-  font-family: 'pacifico';
+  font-family: 'oswald';
   }
 
 video {
   height: 100%;
   width: 100%;
+}
+
+.jumbotron{
+
+  background-color: #eaeaea ;
 }
 
